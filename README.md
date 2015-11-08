@@ -9,12 +9,8 @@ Chrome ExtensionなどでTwitterのページにスタイルシートを適用し
 詳細はこの辺が参考になるかもしれません。
 http://qiita.com/GODVA_GOBBA/items/34fd127578ddb91dfd82
 
-## Usage
-
-## Install
-
 ## Contribution
-ちくわパンのすてきなアイコンはこさつねさん@kosatsuneDQXにお借りしました！
+ちくわパンのすてきなアイコンはこさつねさん[@kosatsuneDQX](https://twitter.com/kosatsuneDQX)にお借りしました！
 
 ## Licence
 
@@ -22,4 +18,4 @@ http://qiita.com/GODVA_GOBBA/items/34fd127578ddb91dfd82
 
 ## Author
 
-[おゆき](@oyukipuku)
+おゆき @oyukipuku
